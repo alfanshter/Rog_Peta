@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "951201807310",
+    "firebase_url": "https://skripsi2020-f253c.firebaseio.com",
+    "project_id": "skripsi2020-f253c",
+    "storage_bucket": "skripsi2020-f253c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951201807310:android:bf409812a5bcd3986b899f",
+        "android_client_info": {
+          "package_name": "com.alfanshter.aplikasi_rog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951201807310-isicq5r91rnbklcgg8i0ebb6k81jiggd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanshter.aplikasi_rog",
+            "certificate_hash": "e6e78674f47c12407b0e5ce65dcdb5c837deafab"
+          }
+        },
+        {
+          "client_id": "951201807310-dpm95if0bp66telrs6h8tapt46628dfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SBl-GhYt7nNtT0Of0NyFFyYy2tpkAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951201807310-dpm95if0bp66telrs6h8tapt46628dfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951201807310:android:65fd2e10ce99fc496b899f",
+        "android_client_info": {
+          "package_name": "com.alfanshter.rog_peta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951201807310-umgso2pdr0ua4obj2t8p63fst3flvkro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanshter.rog_peta",
+            "certificate_hash": "e6e78674f47c12407b0e5ce65dcdb5c837deafab"
+          }
+        },
+        {
+          "client_id": "951201807310-dpm95if0bp66telrs6h8tapt46628dfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SBl-GhYt7nNtT0Of0NyFFyYy2tpkAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951201807310-dpm95if0bp66telrs6h8tapt46628dfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Deteksi Banjir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">maps</string>
+    <string name="title_dashboard">profil</string>
+    <string name="title_notifications">sensor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal">normal</string>
+</resources>
